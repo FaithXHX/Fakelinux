@@ -1,0 +1,321 @@
+(ERROR) VideoModeManager::AddVideoMode:333: VideoMode 'Nexus 7B Visible' already exists
+Setting native video mode to 1920, 1080 - Fullscreen: 1 Aspect Ratio: 0.00
+Save path is C:\Users\user\AppData\Local\Growtopia\
+Initting windows gamepad provider
+Gamepad provider DirectX initialized.
+Current locale is en_us, screen size is 1920.00, 1080.00
+Initialized netobject manager
+TextManager initialized.
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+Clicked Online entity at An entity
+Keyboard active: 1
+HTTPSOperation is successful
+
+Download success...
+Keyboard active: 0
+Keyboard active: 1
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 187.50, 885.94
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Keyboard active: 1
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 187.50, 885.94
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Keyboard active: 1
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 187.50, 885.94
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 187.50, 885.94
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Keyboard active: 1
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 187.50, 885.94
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Keyboard active: 1
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 187.50, 885.94
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Keyboard active: 1
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 187.50, 885.94
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Keyboard active: 1
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 187.50, 885.94
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Keyboard active: 1
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 322.00, 974.00
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Keyboard active: 1
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 187.50, 885.94
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Keyboard active: 1
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 187.50, 885.94
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Connection succeeded.
+NET_MESSAGE_CLIENT_LOG_REQUEST
+OpenLogConsole
+OpenLogConsole
+Processing connection...
+We'll need to update 0 files.
+Entering game...
+Canceling http...
+KillCommunityHubMenu() dialog not active
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_feature_btn01.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_feature_btn01.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_feature_btn05.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_feature_btn05.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_feature_btn02.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_feature_btn02.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_forum_btn01.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_forum_btn01.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_community_btn01.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_community_btn01.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_community_btn04.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_community_btn04.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_feature_btn06.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_feature_btn06.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_5columns_social_btn01.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_5columns_social_btn01.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_5columns_social_btn02.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_5columns_social_btn02.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_5columns_social_btn03.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_5columns_social_btn03.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_5columns_social_btn04.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_5columns_social_btn04.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_5columns_social_btn06.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_5columns_social_btn06.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_policy_btn02.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_policy_btn02.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_policy_btn01.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_policy_btn01.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_policy_btn03.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\interface/large/gazette/gazette_3columns_policy_btn03.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+Clicked button_quick_exit entity at An entity
+KillCommunityHubMenu() dialog not active
+KillCommunityHubMenu() dialog not active
+Game menu created
+World::Load: Version 23. f: 64, Name: FAITHXSAVE
+loading tiles took 15 ms
+loading objects took 0 ms
+Took 78 ms to perform map load and processing - (U:\GROW\main\GTTempDir\source\Component\GameLogicComponent.cpp, line 1695)
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+Warning: Not going to save variant TabStatics because it was never actually set a value
+Error, can't locate tile 32760 data
+Error, can't locate tile 32760 data
+Error, can't locate tile 32512 data
+Error, can't locate tile 32512 data
+Error, can't locate tile 32512 data
+Error, can't locate tile 25640 data
+Error, can't locate tile 25640 data
+Error, can't locate tile 25968 data
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page11_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page11_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page7_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page7_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page2_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page2_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page1_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page2_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page2_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page8_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page8_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/player_pants_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/player_pants_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/player_pants_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/player_pants_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/player_hairhair2_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/player_hairhair2_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/player_shirt_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/player_shirt_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/player_faceitem4_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/player_faceitem4_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/player_hairhair2_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/player_hairhair2_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/player_hair_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/player_hair_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/player_back_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/player_back_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/player_shirt2_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/player_shirt2_icon.rttex
+Couldn't load surface C:\Users\user\AppData\Local\Growtopia\game/tiles_page14_icon.rttex
+ResourceManager::GetSurfaceResource: Unable to load C:\Users\user\AppData\Local\Growtopia\game/tiles_page14_icon.rttex
+Clicked Quit entity
+KillCommunityHubMenu() dialog not active
+Keyboard active: 1
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+Connection succeeded.
+Validing World Now were456
+NET_MESSAGE_CLIENT_LOG_REQUEST
+Processing connection...
+KillCommunityHubMenu() dialog not active
+KillCommunityHubMenu() dialog not active
+Game menu created
+World::Load: Version 23. f: 64, Name: WERE456
+loading tiles took 0 ms
+loading objects took 0 ms
+Took 31 ms to perform map load and processing - (U:\GROW\main\GTTempDir\source\Component\GameLogicComponent.cpp, line 1695)
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+Warning: Not going to save variant TabStatics because it was never actually set a value
+Pause menu already active..
+Clicked Quit entity
+KillCommunityHubMenu() dialog not active
+KillCommunityHubMenu() dialog not active
+KillCommunityHubMenu() dialog not active
+Keyboard active: 1
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+Warning: Not going to save variant TabStatics because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 187.50, 885.94
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Keyboard active: 1
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+Warning: Not going to save variant TabStatics because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Keyboard active: 0
+HTTPSOperation is successful
+
+Download success...
+Connection succeeded.
+Clicked Cancel entity at 187.50, 885.94
+KillCommunityHubMenu() dialog not active
+Canceling http...
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+Warning: Not going to save variant TabStatics because it was never actually set a value
+Exiting the app
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+Warning: Not going to save variant TabStatics because it was never actually set a value
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+Warning: Not going to save variant TabStatics because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Killing sound cache
